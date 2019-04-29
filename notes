@@ -1,0 +1,35 @@
+Viewing posts
+  - There is a header that is an overview of the pre-requisits and a link to each
+  - The first mention of a pre-required piece of knowledge in the artile has a link to it
+
+General Nav
+  - Can view top posts
+  - Can look at what topics I know all the pre-requisits form
+  - Can easily find all the pre-reqs for any specific topic
+  - Can find which pieces are the lowest level building blocks to start with
+
+Creating Posts
+  - Can be done easily though UI
+  - Requires authentication
+  - Replicates to Medium
+  - Is backed up to secondary database
+
+Extra Features
+  - Each article should have key takeaways
+  - Browse by high level topic (NLP, Image Classification, Reinforcment Learning, etc)
+  - A user has the ability to add key takeaways to their spaced repitition deck (paid feature?)
+
+Order of Operations
+  - Can create a text only post through UI
+  - Can read a post
+  - Can view list of posts
+  - Posts support links between each topic
+  - Can edit posts
+  - Header exists with manually added links for pre-reqs
+  - Homepage view looks not terrible
+  - Header is generated automatically from links in article
+  - Replicates to medium
+  - Browse by high level topic
+  - Start here exists for lowest level pieces
+  - Index of topics
+  - Replicates to backup database
